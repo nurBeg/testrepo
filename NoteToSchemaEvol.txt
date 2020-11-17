@@ -1,3 +1,7 @@
 Schema 
 
+<<<<<<< HEAD
 Evalution  !!
+=======
+Evalution  !! SSS
+>>>>>>> new branch first commit
